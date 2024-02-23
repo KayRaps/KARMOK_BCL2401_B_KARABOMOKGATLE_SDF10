@@ -1,6 +1,6 @@
 # KARMOK_BCL2401_B_KARABOMOKGATLE_SDF10
 
-Term/Concept 1: API (Application Programming Interface)
+1.Term/Concept 1: API (Application Programming Interface)
 
 Definition: :   It is an application that sets communication between two computers, exchanging data.  
 
@@ -9,7 +9,7 @@ My Understanding (Rate 1-5): [2]
 Example/Application:  Weather Apps, I checked the weather today, by requesting from my App and the information was fetched from a weather server API]
 
 
-Term/Concept 2: Interface
+2.Term/Concept 2: Interface
 
 Definition: It is like a meeting place between me and my computer or any other technological devices.
 
@@ -19,7 +19,7 @@ Example/Application: [My laptop keyboard is a interface between me and it's wiri
 
  
 
-Term/Concept 3: Client-server model
+3.Term/Concept 3: Client-server model
 
 Definition: It is a model that hosts a networking computer system design that establishes a relation between two or more computers.
 
@@ -29,7 +29,7 @@ Example/Application: A client is a program like a computer program, that makes r
 
  
 
-Term/Concept 4: API Components
+4.Term/Concept 4: API Components
 
 Definition: API Components are the API request, the server, and the API response.
 
@@ -39,7 +39,7 @@ Example/Application: the web browser acts as a client and makes a request to Goo
 
  
 
-Term/Concept 5: Remote (Web) APIs
+5.Term/Concept 5: Remote (Web) APIs
 
 Definition: Remote APIs, is retrieving data outside your computer.
 
